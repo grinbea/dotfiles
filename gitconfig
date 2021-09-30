@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alejandra.grinberg@gmail.com
+	name = Catalina Kanter
